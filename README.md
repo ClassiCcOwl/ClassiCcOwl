@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python and JS projects<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning system design<br>⚡ Fun fact i love owls
+🔭 I’m currently working on Python Django projects<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning system design<br>⚡ Fun fact i love owls
 
 
 ## 🌐 Socials:
