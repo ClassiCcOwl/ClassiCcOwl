@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Django projects<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning system design<br>⚡ Fun fact i love owls
-
+🔭 I’m a passionate backend developer with a love for creating efficient and scalable software solutions. I specialize in Python and Django, and I'm always eager to tackle complex problems and turn them into elegant solutions.<br>👯 I’m looking to collaborate on innovative Python projects and contribute to open-source communities.<br>🌱 I’m currently deepening my knowledge in system design and exploring new backend technologies.<br>⚡ Fun fact: I love owls.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/M-Khavari/) 
